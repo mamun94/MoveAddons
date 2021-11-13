@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="36px" height="27px" viewBox="0 0 36 27" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <path d="M0 27L36 27L36 0L0 0L0 27Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Group-10">
+    <path d="M0 2.25L2.25 2.25L2.25 0L0 0L0 2.25Z" transform="translate(5.625 10.125)" id="Fill-1" fill="#263DDC" fill-rule="evenodd" stroke="none" />
+    <path d="M0 2.25L2.25 2.25L2.25 0L0 0L0 2.25Z" transform="translate(5.625 19.125)" id="Fill-2" fill="#263DDC" fill-rule="evenodd" stroke="none" />
+    <g id="Group-9">
+      <path d="M18.313 0C19.03 0 19.39 0.521 19.39 1.56L19.39 4.679C19.39 5.721 19.03 6.238 18.313 6.238L1.077 6.238C0.357 6.238 0 5.721 0 4.679L0 1.56C0 0.521 0.357 0 1.077 0L18.313 0Z" transform="translate(10.687988 10.125)" id="Fill-3" fill="#263DDC" fill-rule="evenodd" stroke="none" />
+      <path d="M18.313 0C19.03 0 19.39 0.187 19.39 0.562L19.39 1.687C19.39 2.063 19.03 2.25 18.313 2.25L1.077 2.25C0.357 2.25 0 2.063 0 1.687L0 0.562C0 0.187 0.357 0 1.077 0L18.313 0Z" transform="translate(10.687988 19.125)" id="Fill-5" fill="#263DDC" fill-rule="evenodd" stroke="none" />
+      <path d="M0 27L36 27L36 0L0 0L0 27Z" id="Clip-8" fill="none" fill-rule="evenodd" stroke="none" />
+      <g clip-path="url(#mask_1)">
+        <path d="M2.25 4.5L33.75 4.5L33.75 2.25L2.25 2.25L2.25 4.5ZM33.75 23.625C33.75 23.953 33.645 24.223 33.434 24.434C33.223 24.645 32.952 24.75 32.625 24.75L3.375 24.75C3.046 24.75 2.777 24.645 2.566 24.434C2.355 24.223 2.25 23.953 2.25 23.625L2.25 6.75L33.75 6.75L33.75 23.625ZM35.684 0.316C35.473 0.105 35.202 0 34.875 0L1.125 0C0.796 0 0.527 0.105 0.316 0.316C0.105 0.527 0 0.798 0 1.125L0 23.625C0 24.563 0.327 25.359 0.984 26.016C1.64 26.673 2.437 27 3.375 27L32.625 27C33.562 27 34.358 26.673 35.016 26.016C35.671 25.359 36 24.563 36 23.625L36 1.125C36 0.798 35.895 0.527 35.684 0.316L35.684 0.316Z" id="Fill-7" fill="#263DDC" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>

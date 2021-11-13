@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <linearGradient x1="-0.10513322" y1="0.92431027" x2="1.0808896" y2="-0.1269571" id="gradient_1">
+      <stop offset="0" stop-color="#FFB87D" />
+      <stop offset="1" stop-color="#FF3D99" />
+    </linearGradient>
+  </defs>
+  <g id="Group">
+    <path d="M0 36C0 9.72 9.72 0 36 0C62.28 0 72 9.72 72 36C72 62.28 62.28 72 36 72C9.72 72 0 62.28 0 36" id="Path" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

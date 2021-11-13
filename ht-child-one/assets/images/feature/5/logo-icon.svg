@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="27px" height="23px" viewBox="0 0 27 23" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="Logo">
+    <g id="gg-userlane">
+      <path d="M0 0L5.86667 0L5.86667 5.7L0 5.7L0 0Z" id="Path" fill="#F9F9F9" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0C-7.02725e-08 4.58193 2.51591 8.81581 6.6 11.1068C10.6841 13.3977 15.7159 13.3977 19.8 11.1068C23.8841 8.81581 26.4 4.58193 26.4 2.53131e-15L20.5333 2.53131e-15C20.5333 3.93503 17.2501 7.125 13.2 7.125C9.14991 7.125 5.86667 3.93503 5.86667 2.53131e-15L0 0Z" transform="translate(0 9.975)" id="Path" fill="#F9F9F9" fill-rule="evenodd" stroke="none" />
+      <path d="M2.93333 5.7C3.98131 5.7 4.94969 5.15679 5.47367 4.275C5.99766 3.39321 5.99766 2.30679 5.47367 1.425C4.94969 0.543207 3.98131 -1.51725e-08 2.93333 0C1.3133 2.34546e-08 0 1.27599 0 2.85C0 4.42401 1.3133 5.7 2.93333 5.7Z" transform="translate(20.533333 0)" id="Path" fill="#F9F9F9" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>
